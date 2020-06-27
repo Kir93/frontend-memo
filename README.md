@@ -1,7 +1,6 @@
 ## ReactMemo
-```
 React and NextJS Memo
-```
+
 ### Github
 
 #### private clone or remote
