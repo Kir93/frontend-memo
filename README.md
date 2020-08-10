@@ -1,6 +1,6 @@
-# ReactMemo
+# FrontendMemo
 
-React and NextJS Memo
+프론트엔드 메모
 
 ## [Github](https://github.com/Kir93/ReactMemo/blob/master/Github.md)
 
