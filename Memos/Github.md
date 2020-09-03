@@ -1,22 +1,22 @@
-## Github
+# Github
 
-Githubf를 이용할 때 자주 사용하는 명령어들
+Github를 이용할 때 자주 사용하는 명령어들
 
-### private clone or remote
+# - private clone or remote
 
 ```
 git clone https://{myid}@github.com/kir931028/MyNext
 git remote add origin https://{myid}@github.com/kir931028/MyNext
 ```
 
-### git change remote
+# - git change remote
 
 ```
 git remote remove origin --> 예전 remote 삭제
 git remote add origin {address}
 ```
 
-### first git clean pull & push
+# - first git clean pull & push
 
 ```
 git pull origin master
