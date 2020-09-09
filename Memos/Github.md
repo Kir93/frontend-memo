@@ -24,3 +24,16 @@ git add . --> 모두 선택
 git commit -m '{message}'
 git push
 ```
+
+# - git add/reset branch
+
+```
+git checkout -b/-B <branchName>
+git push --set-upstream origin <branchName>
+```
+
+# - git change branch
+
+```
+git checkout <branchName>
+```
