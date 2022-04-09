@@ -10,6 +10,6 @@
 
 React Native Webview 기본 설정
 
-## [3. Markdown](https://github.com/Kir93/frontend-memo/blob/main/Memos/RNWebview.md)
+## [3. Markdown](https://github.com/Kir93/frontend-memo/blob/main/Memos/Markdown.md)
 
 Github Markdown 작성 시 팁.
